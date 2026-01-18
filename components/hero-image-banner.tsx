@@ -22,12 +22,11 @@ export function HeroImageBanner() {
               </div>
               
               <h1 className="text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold text-white leading-tight mb-4">
-                <span className="block">Multiserviços</span>
-                <span className="block text-[#85e0ff]">Residenciais</span>
+                RESOLVEMOS TUDO
               </h1>
               
               <p className="text-white/90 text-base md:text-lg lg:text-xl max-w-xl mx-auto lg:mx-0 mb-6">
-                Seja bem-vindo ao nosso site, aqui sua satisfação é nossa prioridade!
+                Pare de perder seus finais de semana com tarefas que nós resolvemos em minutos. Sua casa merece cuidado profissional e você merece o seu descanso de volta.
               </p>
               
               <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
